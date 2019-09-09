@@ -1,6 +1,6 @@
 # Coffeehouse 3 Pillars
 
-This timeboard shows a variety of metrics pulling from Infrastructure metrics, logs, and APM. It is part of an app that demonstrates how multiple data sources can be used on a single board. This specific timeboard is the troubleshooting equivalent of the high level Coffeehouse screenboard. 
+This timeboard shows a variety of metrics pulling from Infrastructure metrics, logs, and APM. It is part of an app that demonstrates how multiple data sources can be used on a single board. This specific timeboard is the troubleshooting equivalent of the high level [Coffeehouse screenboard](/screenboards/coffeehouse-3-pillars). 
 
 ## How To Import
 
