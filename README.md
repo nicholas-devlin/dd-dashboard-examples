@@ -4,6 +4,14 @@ A repository of Datadog dashboard definitions with descriptions and import links
 
 ## Dashboards
 
+### Screenboards
+
+- [name](): description
+
+### Timeboards
+
+- [name](): description
+
 ## How To Download 
 
 ### GUI
