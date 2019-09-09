@@ -1,0 +1,1 @@
+Folder for timeboards. See [the official dashboard documentation](https://docs.datadoghq.com/graphing/dashboards/#what-is-the-difference-between-a-screenboard-and-a-timeboard) for details on the difference between timeboards and screenboards
